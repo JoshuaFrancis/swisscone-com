@@ -9,7 +9,7 @@
   --warm-grey:  #8C8580;
   --rule:       rgba(26,24,22,.1);
 
-  --ff-serif: 'Playfair Display', Georgia, serif;
+  --ff-serif: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
   --ff-sans:  'Inter', system-ui, sans-serif;
   --max: 1200px;
   --pad: clamp(1.25rem, 5vw, 3rem);
